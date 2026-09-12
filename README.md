@@ -96,7 +96,7 @@ autonomous-lead-enrichment-agent/
 
 Clone the repository and move into the project directory.
 
-    git clone <https://github.com/Akshata-Pattan/autonomous-lead-enrichment-agent>
+    git clone https://github.com/Akshata-Pattan/autonomous-lead-enrichment-agent
     cd autonomous-lead-enrichment-agent
 
 Create a virtual environment.
