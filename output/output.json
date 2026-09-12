@@ -1,0 +1,48 @@
+[
+  {
+    "domain": "postman.com",
+    "company_overview": "Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.",
+    "target_audience": "Developers and API teams building, testing, and managing APIs, as well as organizations seeking governance and collaboration across their API ecosystems.",
+    "contact_points": [
+      "info@postman.com",
+      "info-jp@postman.com",
+      "help@postman.com"
+    ],
+    "leadership": [
+      {
+        "name": "Abhinav Asthana",
+        "role": "CEO and co-founder",
+        "linkedin_url": null
+      },
+      {
+        "name": "Ankit Sobti",
+        "role": "co-founder",
+        "linkedin_url": null
+      },
+      {
+        "name": "Abhijit Kane",
+        "role": "co-founder",
+        "linkedin_url": null
+      }
+    ],
+    "confidence_score": 0.85
+  },
+  {
+    "domain": "supabase.com",
+    "company_overview": "Supabase powers every major AI builder. Your prototypes deserve enterprise infrastructure.",
+    "target_audience": "Enterprise and innovation teams building AI-powered applications and prototypes.",
+    "contact_points": [],
+    "leadership": [],
+    "confidence_score": 0.6
+  },
+  {
+    "domain": "vapi.ai",
+    "company_overview": "Vapi provides real‑time voice AI infrastructure that scales to millions of calls with sub‑500 ms latency and 99.9 % uptime. It is trusted by enterprises and compliant with SOC 2, HIPAA, and PCI.",
+    "target_audience": "Enterprise and mid‑market teams building voice‑enabled customer interactions, including call centers, support, and scheduling.",
+    "contact_points": [
+      "talent@vapi.ai"
+    ],
+    "leadership": [],
+    "confidence_score": 0.6
+  }
+]

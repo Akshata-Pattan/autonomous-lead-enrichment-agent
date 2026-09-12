@@ -1,0 +1,7 @@
+beautifulsoup4
+groq
+lxml
+openai
+playwright
+pydantic
+python-dotenv
